@@ -1,0 +1,277 @@
+@import url("https://fonts.googleapis.com/css2?family=Croissant+One&family=Dela+Gothic+One&family=Foldit:wght@200&family=Inclusive+Sans:ital@1&family=Lato:wght@700;900&family=Lilita+One&family=Martian+Mono:wght@400;500&family=Montserrat:ital,wght@0,400;0,900;1,200;1,900&family=Mooli&family=Pangolin&family=Phudu:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Croissant+One&family=Dela+Gothic+One&family=Foldit:wght@200&family=Inclusive+Sans:ital@1&family=Lato:wght@700;900&family=Lilita+One&family=Martian+Mono:wght@400;500&family=Montserrat:ital,wght@0,100;0,400;0,900;1,200;1,900&family=Mooli&family=Noto+Sans+JP:wght@100;200;300&family=Onest&family=Pangolin&family=Phudu:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Croissant+One&family=Dela+Gothic+One&family=Foldit:wght@200&family=Gabarito&family=Inclusive+Sans:ital@1&family=Lato:wght@700;900&family=Lilita+One&family=Martian+Mono:wght@400;500&family=Montserrat:ital,wght@0,100;0,400;0,900;1,200;1,900&family=Mooli&family=Noto+Sans+JP:wght@100;200;300&family=Onest&family=Pangolin&family=Phudu:wght@600&family=Young+Serif&display=swap");
+.nav-item {
+  font-family: "Dela Gothic One", cursive;
+  font-size: 16px;
+  color: yellow !important;
+}
+
+.title-navbar {
+  font-family: "Croissant One", cursive;
+  color: yellow !important;
+}
+
+.product-item {
+  background-color: #9eddff;
+}
+
+.display-4 {
+  font-family: "Onest";
+  font-size: 36px;
+}
+
+p {
+  font-family: "Gabarito";
+  font-size: 14px;
+}
+
+.btn-dark {
+  background-color: #5cd2e6;
+}
+
+.fa {
+  color: #5cd2e6 !important;
+}
+
+.feature-item:hover,
+.fa:hover {
+  background-color: #5cd2e6 !important;
+  color: #2e4374 !important;
+}
+
+#set_width {
+  padding-right: 95px;
+  font-weight: 700;
+}
+
+nav .nav-link {
+  color: #12486b !important;
+  font-size: 20px;
+}
+nav li {
+  padding: 0 3px 0 0;
+}
+
+.container-fluid {
+  background-color: #78d6c6;
+}
+.container-fluid h2 {
+  font-size: 36px;
+}
+
+.title-navbar {
+  color: white !important;
+}
+
+button {
+  background-color: #419197 !important;
+}
+
+.product-item,
+.blog-item {
+  padding: 2px 0 2px 0;
+  border: 4px solid grey !important;
+  border-radius: 20px;
+}
+
+p,
+span,
+h5 {
+  font-family: "Young Serif", serif;
+}
+
+body {
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 48px;
+  font-weight: bold;
+  color: cobalt;
+}
+
+h5 {
+  font-size: 32px;
+  color: grey;
+}
+
+p {
+  font-size: 24px;
+}
+
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: rgb(230, 231, 233);
+}
+
+h1 {
+  color: green;
+  font-size: 20px !important;
+}
+
+p {
+  color: green;
+  font-size: 15px;
+}
+
+.alert, .alert-info, .alert-message {
+  padding: 5px;
+  background-color: #1aacac;
+  font-family: Helvetica, sans-serif;
+  font-size: 19px;
+  border: 1px solid black;
+}
+
+.alert1, .alert-danger {
+  padding: 5px;
+  background-color: #78d6c6;
+  font-family: Helvetica, sans-serif;
+  font-size: 19px;
+  border: 2px solid #071952;
+}
+
+.alert-message {
+  color: #eeeeee !important;
+}
+
+.alert-info {
+  color: #e9b824 !important;
+}
+
+.alert-danger {
+  color: #176b87 !important;
+}
+
+.btn-primary {
+  font-family: "Fakt Soft Pro";
+  font-size: 12px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px 16px;
+  color: white;
+  background-color: #b931fc;
+}
+
+.btn-secondary {
+  font-family: "Fakt Soft Pro";
+  font-size: 12px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px 16px;
+  color: white;
+  background-color: #ff6969;
+}
+
+.text-1 {
+  font-size: 20px;
+  background-color: #ff6ac2 !important;
+  color: #1aacac;
+}
+
+.text-2 {
+  font-size: 15px;
+  background-color: #1aacac !important;
+  color: #ff6ac2;
+}
+
+.bg_card {
+  background-color: #b5cb99;
+  padding-right: 50px !important;
+}
+
+.bg_card1 {
+  background-color: #b5cb99;
+  padding-left: 100px !important;
+}
+
+.text-display-1 {
+  font-size: 16px;
+}
+
+.text-display-2 {
+  font-size: 32px;
+}
+
+.text-display-3 {
+  font-size: 48px;
+}
+
+.text-heading-1 {
+  font-size: 16px;
+}
+
+.text-heading-2 {
+  font-size: 32px;
+}
+
+.text-heading-3 {
+  font-size: 48px;
+}
+
+.text-heading-4 {
+  font-size: 64px;
+}
+
+.warna-bg-pink {
+  background-color: pink !important;
+}
+
+.warna-bg-blueviolet {
+  background-color: blueviolet !important;
+}
+
+.warna-bg-greenyellow {
+  background-color: greenyellow !important;
+}
+
+.bg-random-warna1 {
+  background-color: #9eddff;
+}
+
+.bg-random-warna2 {
+  background-color: #4b527e;
+}
+
+.bg-random-warna3 {
+  background-color: #ff6969;
+}
+
+.bg-random-warna4 {
+  background-color: #419197;
+}
+
+.bg-random-warna5 {
+  background-color: #e9b824;
+}
+
+.bg-random-warna6 {
+  background-color: #d80032;
+}
+
+.font-title {
+  color: #3d0c11;
+  font-size: 40px;
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.font-subtitle {
+  color: #7d7c7c;
+  font-size: 20px;
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.font-content {
+  color: black;
+  font-size: 16px;
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.title-normal {
+  font-size: 28px;
+}
+
+/*# sourceMappingURL=custome-style.rtl.css.map */
