@@ -274,4 +274,22 @@ p {
   font-size: 28px;
 }
 
+.title {
+  font-size: 28px !important;
+}
+
+.title-p {
+  font-size: 23px !important;
+}
+
+.teks {
+  font-size: 12px;
+  font-size: 14px;
+  font-size: 16px;
+  font-size: 18px;
+  font-size: 20px;
+  font-size: 22px;
+  font-size: 24px;
+}
+
 /*# sourceMappingURL=custome-style.css.map */

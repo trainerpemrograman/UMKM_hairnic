@@ -1,0 +1,15 @@
+@mixin ukuran-huruf($start, $end, $interval) {
+  $ukuran: $start;
+  @while $ukuran <= $end {
+    font-size: $ukuran + px;
+    $ukuran: $ukuran + $interval;
+  }
+}
+
+.teks {
+  @include ukuran-huruf(
+    12,
+    24,
+    2
+  ); // Menghasilkan ukuran font dari 12px hingga 24px dengan interval 2px
+}

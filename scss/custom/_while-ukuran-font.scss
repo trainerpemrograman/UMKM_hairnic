@@ -1,0 +1,15 @@
+@function ukuranfont($value, $base, $dev: 5) {
+  @while $value > $base {
+    $value: $value - $dev;
+  }
+
+  @return $value;
+}
+
+.title {
+  font-size: ukuranfont(43px, 30px) !important;
+}
+
+.title-p {
+  font-size: ukuranfont(43px, 25px) !important;
+}
